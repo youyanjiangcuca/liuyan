@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Kingfisher (4.6.1)
+  - PullToRefresher (3.0.1)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4.0)
+  - Kingfisher (~> 4.6.1)
+  - PullToRefresher (~> 3.0.1)
+  - SnapKit (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Kingfisher: 1f9157d9c02b380cbd0b7cc890161195164eb634
+  PullToRefresher: 10cd77198cd8682f67ddb2eb7948b40637eaca21
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 77e9280535e90c284013c7b1564c401e9ba54124
+
+COCOAPODS: 1.2.1
